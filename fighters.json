@@ -2,118 +2,118 @@
     {
         "name":"Mario",
         "colour":"#eb8282",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Donkey Kong",
         "colour":"#f9df64",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Link",
         "colour":"#42b1dd",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Samus",
         "colour":"#616a7f",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Dark Samus",
         "colour":"#616a7f",
-        "64": false,
+        "sixtyfour": false,
         "melee": false,
         "brawl": false,
-        "4": false,
+        "four": false,
         "ultimate": true
     },
     {
         "name":"Yoshi",
         "colour":"#95d47b",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Kirby",
         "colour":"#fbc1d4",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Fox",
         "colour":"#4e8ee3",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Pikachu",
         "colour":"#fde22a",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Luigi",
         "colour":"#76b160",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Ness",
         "colour":"#e35d5a",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Captain Falcon",
         "colour":"#9f9be1",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     },
     {
         "name":"Jigglypuff",
         "colour":"#e79cea",
-        "64": true,
+        "sixtyfour": true,
         "melee": true,
         "brawl": true,
-        "4": true,
+        "four": true,
         "ultimate": true
     }
 ]
