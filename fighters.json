@@ -254,13 +254,5 @@
         "melee": false,
         "brawl": true,
         "4": true
-    },
-    {
-        "name":"Dark Pit",
-        "colour":"#9873c6",
-        "64": false,
-        "melee": false,
-        "brawl": false,
-        "4": true
     }
 ]
