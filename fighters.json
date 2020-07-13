@@ -51,7 +51,7 @@
         "name":"Pikachu",
         "series":"Pokemon",
         "colour":"#fde22a",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"],
+        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
     },
     {
         "name":"Luigi",
