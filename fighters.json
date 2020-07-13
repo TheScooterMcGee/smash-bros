@@ -1,80 +1,119 @@
 [
     {
         "name":"Mario",
-        "series":"Super Mario",
         "colour":"#eb8282",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Donkey Kong",
-        "series":"Donkey Kong",
         "colour":"#f9df64",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Link",
-        "series":"Legend of Zelda",
         "colour":"#42b1dd",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Samus",
-        "series":"Metroid",
         "colour":"#616a7f",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Dark Samus",
-        "series":"Metroid",
         "colour":"#616a7f",
-        "game":["Ultimate"]
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false,
+        "ultimate": true
     },
     {
         "name":"Yoshi",
-        "series":"Yoshi",
         "colour":"#95d47b",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Kirby",
-        "series":"Kirby",
         "colour":"#fbc1d4",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Fox",
-        "series":"Star Fox",
         "colour":"#4e8ee3",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Pikachu",
-        "series":"Pokemon",
         "colour":"#fde22a",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Luigi",
-        "series":"Super Mario",
         "colour":"#76b160",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Ness",
-        "series":"Earthbound",
         "colour":"#e35d5a",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Captain Falcon",
-        "series":"F-Zero",
         "colour":"#9f9be1",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     },
     {
         "name":"Jigglypuff",
-        "series":"Pokemon",
         "colour":"#e79cea",
-        "game":["64", "Melee", "Brawl", "4", "Ultimate"]
+        "64": true,
+        "melee": true,
+        "brawl": true,
+        "4": true,
+        "ultimate": true
     }
 ]
