@@ -2,118 +2,265 @@
     {
         "name":"Mario",
         "colour":"#eb8282",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Donkey Kong",
         "colour":"#f9df64",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Link",
         "colour":"#42b1dd",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Samus",
         "colour":"#616a7f",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Dark Samus",
         "colour":"#616a7f",
-        "sixtyfour": false,
+        "64": false,
         "melee": false,
         "brawl": false,
-        "four": false,
-        "ultimate": true
+        "4": false
     },
     {
         "name":"Yoshi",
         "colour":"#95d47b",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Kirby",
         "colour":"#fbc1d4",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Fox",
         "colour":"#4e8ee3",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Pikachu",
         "colour":"#fde22a",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Luigi",
         "colour":"#76b160",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Ness",
         "colour":"#e35d5a",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Captain Falcon",
         "colour":"#9f9be1",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
     },
     {
         "name":"Jigglypuff",
         "colour":"#e79cea",
-        "sixtyfour": true,
+        "64": true,
         "melee": true,
         "brawl": true,
-        "four": true,
-        "ultimate": true
+        "4": true
+    },
+    {
+        "name":"Peach",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Daisy",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Bowser",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Ice Climbers",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": false
+    },
+    {
+        "name":"Sheik",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Zelda",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Dr. Mario",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Pichu",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Falco",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Marth",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Lucina",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Young Link",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Ganondorf",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Mewtwo",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Roy",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Chrom",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Mr. Game & Watch",
+        "colour":"",
+        "64": false,
+        "melee": true,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Meta Knight",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Pit",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Dark Pit",
+        "colour":"",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
     }
 ]
