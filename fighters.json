@@ -105,7 +105,7 @@
     },
     {
         "name":"Peach",
-        "colour":"",
+        "colour":"#f6d1f2",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -113,7 +113,7 @@
     },
     {
         "name":"Daisy",
-        "colour":"",
+        "colour":"#f6c84c",
         "64": false,
         "melee": false,
         "brawl": false,
@@ -121,7 +121,7 @@
     },
     {
         "name":"Bowser",
-        "colour":"",
+        "colour":"#71a48d",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -129,7 +129,7 @@
     },
     {
         "name":"Ice Climbers",
-        "colour":"",
+        "colour":"#add1fd",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -137,7 +137,7 @@
     },
     {
         "name":"Sheik",
-        "colour":"",
+        "colour":"#8883d5",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -145,7 +145,7 @@
     },
     {
         "name":"Zelda",
-        "colour":"",
+        "colour":"#fcecb0",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -153,7 +153,7 @@
     },
     {
         "name":"Dr. Mario",
-        "colour":"",
+        "colour":"#eb8282",
         "64": false,
         "melee": true,
         "brawl": false,
@@ -161,7 +161,7 @@
     },
     {
         "name":"Pichu",
-        "colour":"",
+        "colour":"#e9e751",
         "64": false,
         "melee": true,
         "brawl": false,
@@ -169,7 +169,7 @@
     },
     {
         "name":"Falco",
-        "colour":"",
+        "colour":"#7ebbe2",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -177,7 +177,7 @@
     },
     {
         "name":"Marth",
-        "colour":"",
+        "colour":"#73b4cf",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -185,7 +185,7 @@
     },
     {
         "name":"Lucina",
-        "colour":"",
+        "colour":"#73b4cf",
         "64": false,
         "melee": false,
         "brawl": false,
@@ -193,7 +193,7 @@
     },
     {
         "name":"Young Link",
-        "colour":"",
+        "colour":"#b1d777",
         "64": false,
         "melee": true,
         "brawl": false,
@@ -201,7 +201,7 @@
     },
     {
         "name":"Ganondorf",
-        "colour":"",
+        "colour":"#8c88b0",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -209,7 +209,7 @@
     },
     {
         "name":"Mewtwo",
-        "colour":"",
+        "colour":"#8c71c6",
         "64": false,
         "melee": true,
         "brawl": false,
@@ -217,7 +217,7 @@
     },
     {
         "name":"Roy",
-        "colour":"",
+        "colour":"#88c073",
         "64": false,
         "melee": true,
         "brawl": false,
@@ -225,7 +225,7 @@
     },
     {
         "name":"Chrom",
-        "colour":"",
+        "colour":"#d5d5d5",
         "64": false,
         "melee": false,
         "brawl": false,
@@ -233,7 +233,7 @@
     },
     {
         "name":"Mr. Game & Watch",
-        "colour":"",
+        "colour":"#b1afa0",
         "64": false,
         "melee": true,
         "brawl": true,
@@ -241,7 +241,7 @@
     },
     {
         "name":"Meta Knight",
-        "colour":"",
+        "colour":"#6c7dbb",
         "64": false,
         "melee": false,
         "brawl": true,
@@ -249,7 +249,7 @@
     },
     {
         "name":"Pit",
-        "colour":"",
+        "colour":"#a3d1ec",
         "64": false,
         "melee": false,
         "brawl": true,
@@ -257,10 +257,10 @@
     },
     {
         "name":"Dark Pit",
-        "colour":"",
+        "colour":"#9873c6",
         "64": false,
         "melee": false,
         "brawl": false,
         "4": true
-    }
+    },
 ]
