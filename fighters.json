@@ -262,5 +262,365 @@
         "melee": false,
         "brawl": false,
         "4": true
+    },
+    {
+        "name":"Zero Suit Samus",
+        "colour":"#477ec2",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Wario",
+        "colour":"#fce83c",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Snake",
+        "colour":"#7c93a7",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": false
+    },
+    {
+        "name":"Ike",
+        "colour":"#c0685a",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Pokémon Trainer",
+        "colour":"#ffc929",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Diddy Kong",
+        "colour":"#d7645e",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Lucas",
+        "colour":"#e47e51",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Sonic",
+        "colour":"#7cabee",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"King Dedede",
+        "colour":"#fceb8e",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Olimar",
+        "colour":"#d3f1bb",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Lucario",
+        "colour":"#c2e7fc",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"R.O.B.",
+        "colour":"#bcc1c5",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Toon Link",
+        "colour":"#9ce999",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": true
+    },
+    {
+        "name":"Wolf",
+        "colour":"#d2d2d2",
+        "64": false,
+        "melee": false,
+        "brawl": true,
+        "4": false
+    },
+    {
+        "name":"Villager",
+        "colour":"#74b586",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Mega Man",
+        "colour":"#98cae4",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Wii Fit Trainer",
+        "colour":"#a8da93",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Rosalina & Luma",
+        "colour":"#a7dbd4",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Little Mac",
+        "colour":"#648974",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Greninja",
+        "colour":"#6f88b2",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Palutena",
+        "colour":"#9fe7c8",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Pac-Man",
+        "colour":"#f1d76b",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Robin",
+        "colour":"#cb98de",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Shulk",
+        "colour":"#db7a8d",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Bowser Jr.",
+        "colour":"#73c958",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Duck Hunt",
+        "colour":"#9d7557",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Ryu",
+        "colour":"#d66966",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Ken",
+        "colour":"#d3dbe0",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Cloud",
+        "colour":"#5da396",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Corrin",
+        "colour":"#79b2c7",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Bayonetta",
+        "colour":"#b2afe5",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": true
+    },
+    {
+        "name":"Inkling",
+        "colour":"#f868a3",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Ridley",
+        "colour":"#616a7f",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Simon",
+        "colour":"#ae4d3c",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Richter",
+        "colour":"#438eb1",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"King K. Rool",
+        "colour":"#8ab457",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Isabelle",
+        "colour":"#74b586",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Incineroar",
+        "colour":"#fddb24",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Piranha Plant",
+        "colour":"#25b593",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Joker",
+        "colour":"#a00f00",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Hero",
+        "colour":"#cdb4f5",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Banjo & Kazooie",
+        "colour":"#fac85a",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Terry",
+        "colour":"#6eb5ff",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Byleth",
+        "colour":"#a3e6bd",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
+    },
+    {
+        "name":"Min Min",
+        "colour":"#ffff83",
+        "64": false,
+        "melee": false,
+        "brawl": false,
+        "4": false
     }
 ]
